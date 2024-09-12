@@ -1,0 +1,15 @@
+{
+  "ferrari": {
+    "modelo": "xr",
+    "asientos": "40",
+    "modelos": "gto"
+  },
+  "porsche": {
+    "modelo": "911",
+    "asientos": 2
+  },
+  "lamborghini": {
+    "modelo": "murcielago",
+    "asientos": 2
+  }
+}

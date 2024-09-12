@@ -1,0 +1,15 @@
+{
+  "name": "clase-6",
+  "version": "1.0.0",
+  "main": "modulofs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node": "^22.8.0",
+    "nodemon": "^3.1.4"
+  }
+}
